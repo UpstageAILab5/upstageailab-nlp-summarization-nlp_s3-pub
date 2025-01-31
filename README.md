@@ -54,23 +54,7 @@ output : 249개의 대화 요약문
 
 ### Directory
 
-- _Insert your directory structure_
-
-e.g.
-```
-├── code
-│   ├── jupyter_notebooks
-│   │   └── model_train.ipynb
-│   └── train.py
-├── docs
-│   ├── pdf
-│   │   └── (Template) [패스트캠퍼스] Upstage AI Lab 1기_그룹 스터디 .pptx
-│   └── paper
-└── input
-    └── data
-        ├── eval
-        └── train
-```
+![image](https://github.com/user-attachments/assets/3f5616da-c6bd-4226-98aa-16a00c136673)
 
 ## 3. Data descrption
 
