@@ -9,16 +9,16 @@
 ## 0. Overview
 ### Environment
 
-AMD Ryzen Threadripper 3960X-Core Processor
-NVIDAIA Gefoece RTX 3090
-CUDA Version 12.2
+- AMD Ryzen Threadripper 3960X-Core Processor
+- NVIDAIA Gefoece RTX 3090
+- CUDA Version 12.2
 
 ### Requirements
 
-matplotlib==3.10.0
-numpy==2.2.0
-pandas==2.2.3
-scikit-learn==1.6.0
+- matplotlib==3.10.0
+- numpy==2.2.0
+- pandas==2.2.3
+- scikit-learn==1.6.0
 
 ## 1. Competiton Info
 
