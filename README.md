@@ -110,8 +110,8 @@ https://docs.google.com/presentation/d/16C3gxiuxN2i_rtIF9Rn5Xo6NONPxuNICbAryDjqD
 
 ### Meeting Log
 
-- _Insert your meeting log link like Notion or Google Docs_
+- Notion : https://www.notion.so/3-Eagle-s-Road-5fb1a904b18240bb9fb6f0791d3f3ee0?pvs=4
+- Google Docs (Mentoring) : https://docs.google.com/document/d/1d92dD-P3A1gI9VX8rh676Ti01jyVend46uXls8Cv2QQ/edit?tab=t.0
 
 ### Reference
-
-- _Insert related reference_
+-
