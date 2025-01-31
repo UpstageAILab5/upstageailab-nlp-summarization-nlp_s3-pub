@@ -90,24 +90,21 @@ e.g.
 
 ## 4. Modeling
 
-### Model descrition
+### Model descrition & Modeling Process
 
-- _Write model information and why your select this model_
+<img width="946" alt="Image" src="https://github.com/user-attachments/assets/6203790f-3f74-4fe8-bd6e-dc77b1216ee6" />
 
-### Modeling Process
-
-- _Write model train and test process with capture_
+![Image](https://github.com/user-attachments/assets/8b089e43-4bbf-4ebb-a156-dd4be8d18217)
 
 ## 5. Result
 
 ### Leader Board
 
-- _Insert Leader Board Capture_
-- _Write rank and score_
+![Image](https://github.com/user-attachments/assets/0f8ce7a8-25ce-4938-bc82-3a19e5397ae7)
 
 ### Presentation
 
-- _Insert your presentaion file(pdf) link_
+https://docs.google.com/presentation/d/16C3gxiuxN2i_rtIF9Rn5Xo6NONPxuNICbAryDjqDSNE/edit#slide=id.g32e225d9c1d_2_75
 
 ## etc
 
