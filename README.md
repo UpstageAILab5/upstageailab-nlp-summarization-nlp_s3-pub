@@ -77,7 +77,7 @@ output : 249개의 대화 요약문
 
 <img width="862" alt="Image" src="https://github.com/user-attachments/assets/2057817a-554b-44a9-b8ce-39a9a791ca26" />
 
-<img width="750" alt="Image" src="https://github.com/user-attachments/assets/38dbbeeb-0da5-4f71-b7c9-2f445050353f" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/38dbbeeb-0da5-4f71-b7c9-2f445050353f" />
 
 ## 4. Modeling
 
@@ -85,7 +85,7 @@ output : 249개의 대화 요약문
 
 <img width="946" alt="Image" src="https://github.com/user-attachments/assets/6203790f-3f74-4fe8-bd6e-dc77b1216ee6" />
 
-![Image](https://github.com/user-attachments/assets/8b089e43-4bbf-4ebb-a156-dd4be8d18217)
+<img width="700" alt="Image" src="https://github.com/user-attachments/assets/8b089e43-4bbf-4ebb-a156-dd4be8d18217" />
 
 ## 5. Result
 
