@@ -43,7 +43,7 @@ output : 249개의 대화 요약문
 
 ### Evaluation Metric
 
-<img width="604" alt="Image" src="https://github.com/user-attachments/assets/80a8290a-b471-436e-b187-09e555956f84" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/80a8290a-b471-436e-b187-09e555956f84" />
 
 ### Timeline
 
@@ -76,15 +76,17 @@ e.g.
 
 ### Dataset overview
 
-- _Explain using data_
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/beacc2c4-e6ad-4681-844b-e3b41957dda9" />
 
-### EDA
+### EDA & Data Processing
 
-- _Describe your EDA process and step-by-step conclusion_
+<img width="613" alt="Image" src="https://github.com/user-attachments/assets/8f71602b-5dc0-412a-b5b4-80eecc57f971" />
 
-### Data Processing
+<img width="862" alt="Image" src="https://github.com/user-attachments/assets/51180682-f990-461f-a11d-f4ce2ba5ceeb" />
 
-- _Describe data processing process (e.g. Data Labeling, Data Cleaning..)_
+<img width="862" alt="Image" src="https://github.com/user-attachments/assets/2057817a-554b-44a9-b8ce-39a9a791ca26" />
+
+<img width="858" alt="Image" src="https://github.com/user-attachments/assets/38dbbeeb-0da5-4f71-b7c9-2f445050353f" />
 
 ## 4. Modeling
 
