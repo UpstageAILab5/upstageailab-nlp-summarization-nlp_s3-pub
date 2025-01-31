@@ -8,10 +8,17 @@
 
 ## 0. Overview
 ### Environment
-- _Write Development environment_
+
+AMD Ryzen Threadripper 3960X-Core Processor
+NVIDAIA Gefoece RTX 3090
+CUDA Version 12.2
 
 ### Requirements
-- _Write Requirements_
+
+matplotlib==3.10.0
+numpy==2.2.0
+pandas==2.2.3
+scikit-learn==1.6.0
 
 ## 1. Competiton Info
 
