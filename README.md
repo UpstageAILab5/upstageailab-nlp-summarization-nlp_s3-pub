@@ -3,7 +3,7 @@
 
 | ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [최진호](https://github.com/UpstageAILab)             |            [김태환](https://github.com/UpstageAILab)             |            [김현진](https://github.com/UpstageAILab)             |            [유영신](https://github.com/UpstageAILab)             |            [김예승](https://github.com/UpstageAILab)             |
+|            [최진호]             |            [김태환]            |            [김현진]           |            [유영신]             |            [김예승]             |
 |                            팀장, 모델테스트                             |                            모델테스트                             |                            모델테스트                             |                            데이터분석                             |                            데이터분석                             |
 
 ## 0. Overview
@@ -77,7 +77,7 @@ output : 249개의 대화 요약문
 
 <img width="862" alt="Image" src="https://github.com/user-attachments/assets/2057817a-554b-44a9-b8ce-39a9a791ca26" />
 
-<img width="858" alt="Image" src="https://github.com/user-attachments/assets/38dbbeeb-0da5-4f71-b7c9-2f445050353f" />
+<img width="750" alt="Image" src="https://github.com/user-attachments/assets/38dbbeeb-0da5-4f71-b7c9-2f445050353f" />
 
 ## 4. Modeling
 
