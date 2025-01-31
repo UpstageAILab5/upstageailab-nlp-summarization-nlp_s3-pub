@@ -25,7 +25,7 @@ Dialogue Summarization 경진대회는 주어진 데이터를 활용하여 일�
 
 이를 돕기 위해, 우리는 이번 대회에서 일상 대화를 바탕으로 요약문을 생성하는 모델을 구축합니다!
 
-
+![Image](https://github.com/user-attachments/assets/6780fd7e-54ad-40cc-af0b-10d411121a6f)
 
 참가자들은 대회에서 제공된 데이터셋을 기반으로 모델을 학습하고, 대화의 요약문을 생성하는데 중점을 둡니다. 이를 위해 다양한 구조의 자연어 모델을 구축할 수 있습니다.
 
@@ -41,10 +41,14 @@ input : 249개의 대화문
 
 output : 249개의 대화 요약문
 
+### Evaluation Metric
+
+<img width="604" alt="Image" src="https://github.com/user-attachments/assets/80a8290a-b471-436e-b187-09e555956f84" />
+
 ### Timeline
 
-- ex) January 10, 2024 - Start Date
-- ex) February 10, 2024 - Final submission deadline
+<img width="630" alt="Image" src="https://github.com/user-attachments/assets/d004282b-41b4-4b04-946a-72750380d73e" />
+
 
 ## 2. Components
 
