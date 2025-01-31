@@ -1,4 +1,4 @@
-# Eagle's Road " 새로운 길 , 독수리처럼 힘차게~!! "
+# Eagle's Road " 새로운 길 , 독수리처럼 힘차게~!! 🦅 "
 ## Team
 
 | ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
@@ -32,7 +32,7 @@ Dialogue Summarization 경진대회는 주어진 데이터를 활용하여 일�
 
 이를 돕기 위해, 우리는 이번 대회에서 일상 대화를 바탕으로 요약문을 생성하는 모델을 구축합니다!
 
-![Image](https://github.com/user-attachments/assets/6780fd7e-54ad-40cc-af0b-10d411121a6f)
+<img width="700" alt="Image" src="https://github.com/user-attachments/assets/6780fd7e-54ad-40cc-af0b-10d411121a6f" />
 
 참가자들은 대회에서 제공된 데이터셋을 기반으로 모델을 학습하고, 대화의 요약문을 생성하는데 중점을 둡니다. 이를 위해 다양한 구조의 자연어 모델을 구축할 수 있습니다.
 
@@ -85,7 +85,7 @@ output : 249개의 대화 요약문
 
 <img width="946" alt="Image" src="https://github.com/user-attachments/assets/6203790f-3f74-4fe8-bd6e-dc77b1216ee6" />
 
-<img width="700" alt="Image" src="https://github.com/user-attachments/assets/8b089e43-4bbf-4ebb-a156-dd4be8d18217" />
+<img width="650" alt="Image" src="https://github.com/user-attachments/assets/8b089e43-4bbf-4ebb-a156-dd4be8d18217" />
 
 ## 5. Result
 
