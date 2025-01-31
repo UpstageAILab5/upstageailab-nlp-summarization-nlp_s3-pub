@@ -61,7 +61,7 @@ output : 249개의 대화 요약문
 
 ### Directory
 
-![image](https://github.com/user-attachments/assets/3f5616da-c6bd-4226-98aa-16a00c136673)
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/3f5616da-c6bd-4226-98aa-16a00c136673" />
 
 ## 3. Data descrption
 
